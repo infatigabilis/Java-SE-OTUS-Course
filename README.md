@@ -1,59 +1,59 @@
-## Домашняя работа по курсу [Разработчик Java](https://otus.ru/lessons/razrabotchik-java/)
+# Java SE course | OTUS.ru
 
-#### 1. Maven
+## HW1 - Maven
 Вводное задание. Сбор проекта в Maven с обфускацией
 
-#### 2. Object Size
+## HW2 - Object Size
 Стенд для измерения размера любого объекта(включая массивы и списки)
 в памяти
 
-#### 3. List implementation
+## HW3 - List implementation
 Реализация кастомного динамического массива по стандартному 
 интерфейсу List
 
-#### 4. GC statistics
+## HW4 - GC statistics
 Сбор статичтики(количество сборок и общее затраченное время) по
 разным сборщикам муссора
 
-#### 5. Test Framework
+## HW5 - Test Framework
 Реализация тестового фремворка вроде JUnit, а именно реализация
 аннотаций @Before, @After, @Test
 
-#### 6. ATM
+## HW6 - ATM
 Реализация работы банкомата без применения паттернов
 (Задание нужно для контраста по следующим, 7-м. Без сравнения двух
 реализация - ничего интересного)
 
-#### 7. ATM Department
+## HW7 - ATM Department
 Применение паттернов Strategy, Chain of Responsibility, Observer и
 Iterator на примере реализации работы банкомата
 
-#### 8. JSON Serializer
+## HW8 - JSON Serializer
 Реализация на Reflection собственного JSON сериализатора вроде GSON
 или Jackson
 
-#### 9. JDBC Executor
+## HW9 - JDBC Executor
 Реализация DAO на JDBC с использованием паттерна Executor
 
-#### 10. Hibernate
+## HW10 - Hibernate
 Реализацтя DAO на Hibernate
 
-#### 11. Cache
+## HW11 - Cache
 Реализация кастомного кеша на SoftReference
 
-#### 12. Jetty
+## HW12 - Jetty
 Реализация простого веб-приложения на standalone Jetty
 
-#### 13. WAR & Spring IoC
+## HW13 - WAR & Spring IoC
 Подлючение к веб-приложению DAO из 10 задания через Spring Beans.
 Сбор проекта в WAR.
 
-#### 14. Multithread Array Sort
+## HW14 - Multithread Array Sort
 Сортировка массива в несколько потоков через ExecutorService
 
-#### 15. Message System
+## HW15 - Message System
 Кастомная месседжевая система для нескольких потоков
 
-#### 16. Multi-process Message System
+## HW16 - Multi-process Message System
 Кастомная месседжевая система для нескольких процессов. Взаимодействие
 между процессами по сокетам с сериализация в JSON.
